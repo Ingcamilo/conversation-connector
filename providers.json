@@ -9,8 +9,8 @@
     {
       "channel": {
         "facebook": {
-          "app_secret": "xxxxxx",
-          "page_access_token": "xxxxxx",
+          "app_secret": "bc599b323ddfe52d2ae797b7a00476ab",
+          "page_access_token": "EAAHrZAIW8HXsBAKge63ZCYXtkU6Pn1NXq5ttL0t9fUYgQtaKdA6GWI0zNKRoaaDbGElFc0iI4npQRcpZCblFZBynOPjX5Ffh6u8sQb8UArLdBwAlik8SR4t9HsJDwoYQR7xlVJ2rLHR41CEWLzmuGIM6LgvKueP7dD9ZBTydBNAZDZD",
           "verification_token": "Kami851009"
         },
         "name": "slack",
@@ -21,9 +21,9 @@
         }
       },
       "conversation": {
-        "username": "xxxx",
-        "password": "xxxx",
-        "workspace_id": "xxxx"
+        "username": "afed6e43-8ee8-4404-8fd4-2dcf8b000669",
+        "password": "r6f4bYNoYL1u",
+        "workspace_id": "6d8b931a-2dbb-4171-9d5d-15b7c4d7b26f"
       },
       "name": "xxxx"
     }
